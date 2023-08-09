@@ -1,2 +1,5 @@
-# automatic-enigma
+# Automatic-Enigma
 Coursera Tutorial
+
+**Bold txt**
+*Italic txt*
